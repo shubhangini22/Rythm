@@ -1,2 +1,2 @@
 # Rythm
-Chat app
+To do list app
