@@ -1,5 +1,5 @@
-# Octo
-> Deep learning model for recognising pets :)
+# Rythm
+> A personal to-do list app for you to keep a check on all your tasks.
 
 
 ### I have explained my project by breaking down it into simpler parts. 
@@ -38,11 +38,9 @@ As per the results it can be concluded that:
 
 #### Technologies
 
-- Numpy
-- Pandas
-- Tensorflow
-- Sci-kit Learn
-- Google collabratory
+- Flutter
+- Dart
+- Andriod Studio
 
 
 ## Author Info
