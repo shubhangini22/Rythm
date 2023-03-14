@@ -1,6 +1,7 @@
-# Rythm
-> A personal to-do list app for you to keep a check on all your tasks.
-
+# To-do List App
+> Orgainize your tasks at one place with some additional features of adding your avtars, editing and deleting them.<br>
+<b>Apk file link:</b><br>
+https://drive.google.com/drive/recent
 
 ### I have explained my project by breaking down it into simpler parts. 
 
@@ -11,36 +12,36 @@
 ---
 
 ## Description 
+Below is the snapshot of the app:<br>
+You can add your tasks by clicking on the add icon.<br><br>
 
-Step-1:Initially I imported the following libraries:<br>
-1.Numpy<br>
-2.Pandas<br>
-3.Tensorflow<br>
-Then the data to be utilized was pre-processed in data preprocessing step<br><br><br>
-<img width="934" alt="1" src="https://user-images.githubusercontent.com/88343647/224535868-804b2fa2-d585-4fea-a4ee-65bdd41964f9.png"><br><br>
-Step-2:Encoding categorical data, which implies converting categorical data into integer format so that the data with converted categorical values can be provided to the models to give and improve the predictions.<br><br><br>
-<img width="927" alt="2" src="https://user-images.githubusercontent.com/88343647/224536096-b0631fa3-7be5-4a8f-b19a-b46364924ac7.png"><br><br>
-Step-3:Splitting the data set into test set and training set using train_test_split from sci-kit learn.<br><br><br>
-<img width="894" alt="3" src="https://user-images.githubusercontent.com/88343647/224536257-d0b89360-66df-471d-ac58-92f69bb5eb27.png"><br><br>
-Step-4:After specifying the test set and training set, building of ANN model was done as per the following steps:<br><br>
-<img width="878" alt="4" src="https://user-images.githubusercontent.com/88343647/224536326-e4c95265-32be-47d0-a5d7-508b8416cfdc.png"><br><br><br><br>
-Step-5:Once the model was built, it was trained for the selected dataset and the predictions were analysed<br>
-As per the results it can be concluded that:
-<b>Accuracy of the model was 0.8615<b><br>
-    From the matrix we can say that:<br>
-    No. of people predicted correctly (stay): 1520<br>
-    No. of people predicted incorrectly (stay): 202<br>
-    No. of people predicted incorrectly (not stay): 75<br>
-    No. of people predicted correctly (not stay): 203<br><br><br>
-    <img width="882" alt="5" src="https://user-images.githubusercontent.com/88343647/224536594-6df2f638-2fca-451c-bd23-190fc1739efb.png"><br><br>
+<img width="328" alt="1" src="https://user-images.githubusercontent.com/88343647/224933332-5faa836e-b42e-4a80-a18a-2e2f94eb2bc1.png">
 
+
+
+<br><br><br>
+The newest task added will appear on the top side of the home screen, below the search bar.
+ <br><br>
+
+
+
+<img width="305" alt="2" src="https://user-images.githubusercontent.com/88343647/224936446-9410e429-4ba2-447d-ae30-0157c58515e1.png">
+
+<br><br><br>
+You can delete your tasks by clicking on the delete icon.
+<br><br>
+
+
+<img width="621" alt="3" src="https://user-images.githubusercontent.com/88343647/224553795-063a08b9-1dca-4482-88b6-719b2913c4f0.png">
 
 
 #### Technologies
 
-- Flutter
-- Dart
-- Andriod Studio
+- HTML
+- CSS
+- Javascript
+- Jquery
+- VS code
 
 
 ## Author Info
