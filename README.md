@@ -32,16 +32,19 @@ You can delete your tasks by clicking on the delete icon.
 <br><br>
 
 
-<img width="621" alt="3" src="https://user-images.githubusercontent.com/88343647/224553795-063a08b9-1dca-4482-88b6-719b2913c4f0.png">
 
+<img width="319" alt="3" src="https://user-images.githubusercontent.com/88343647/224937139-61c9aefd-f1fe-402d-b9ee-691e294dcb93.png">
+<br><br><br>
+Your screen will appear like this.<br><br>
 
+<img width="346" alt="4" src="https://user-images.githubusercontent.com/88343647/224938869-d07f9dc7-7816-40bc-a7f0-c011374a3133.png">
+<br><br><br>
 #### Technologies
 
-- HTML
-- CSS
-- Javascript
-- Jquery
-- VS code
+- Dart
+- Flutter
+- Andriod studio
+
 
 
 ## Author Info
