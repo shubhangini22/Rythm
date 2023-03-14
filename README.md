@@ -41,11 +41,9 @@ Your screen will appear like this.<br><br>
 
 #### Technologies
 
-- HTML
-- CSS
-- Javascript
-- Jquery
-- VS code
+- Dart
+- Flutter
+- Andriod Studio
 
 
 
